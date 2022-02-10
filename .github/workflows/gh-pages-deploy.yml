@@ -31,6 +31,7 @@ jobs:
       with:
         username: ${{ github.repository_owner }}
         token: ${{ secrets.GH_TOKEN }}
+        include-repos: "osprey"
     - name: List contents
       run: |
         ls -ltRh
