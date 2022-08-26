@@ -1372,6 +1372,14 @@ LCModel,2022-08-25,tree/main/binaries/macos/catalina,LCModel/binaries/macos/cata
 LCModel,2022-08-25,tree/main/binaries/win/win10,LCModel/binaries/win/win10 at main · schorschinho/LCModel · GitHub,2,2
 LCModel,2022-08-25,tree/main/source,LCModel/source at main · schorschinho/LCModel · GitHub,3,2
 LCModel,2022-08-25,tree/main/test_lcm,LCModel/test_lcm at main · schorschinho/LCModel · GitHub,5,2
+LCModel,2022-08-26,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,14,11
+LCModel,2022-08-26,blob/main/binaries/macos/catalina/lcmodel.zip,LCModel/lcmodel.zip at main · schorschinho/LCModel · GitHub,3,3
+LCModel,2022-08-26,blob/main/binaries/win/win10/LCModel.exe.zip,LCModel/LCModel.exe.zip at main · schorschinho/LCModel · GitHub,3,2
+LCModel,2022-08-26,find/main,File Finder · GitHub,1,1
+LCModel,2022-08-26,tree/main/binaries,LCModel/binaries at main · schorschinho/LCModel · GitHub,3,2
+LCModel,2022-08-26,tree/main/binaries/macos/catalina,LCModel/binaries/macos/catalina at main · schorschinho/LCModel · GitHub,2,1
+LCModel,2022-08-26,tree/main/binaries/win/win10,LCModel/binaries/win/win10 at main · schorschinho/LCModel · GitHub,1,1
+LCModel,2022-08-26,tree/main/source,LCModel/source at main · schorschinho/LCModel · GitHub,2,1
 MRSDeIdentificationTools,2022-02-24,,schorschinho/MRSDeIdentificationTools: Tools to remove protected health infor...,3,2
 MRSDeIdentificationTools,2022-02-24,blob/master/PhilipsDeIdentify.m,MRSDeIdentificationTools/PhilipsDeIdentify.m at master · schorschinho/MRSDeId...,1,1
 MRSDeIdentificationTools,2022-02-24,blob/master/README.md,MRSDeIdentificationTools/README.md at master · schorschinho/MRSDeIdentificati...,1,1
@@ -1685,6 +1693,7 @@ MRSDeIdentificationTools,2022-08-22,,GitHub - schorschinho/MRSDeIdentificationTo
 MRSDeIdentificationTools,2022-08-23,,GitHub - schorschinho/MRSDeIdentificationTools: Tools to remove protected hea...,2,1
 MRSDeIdentificationTools,2022-08-24,,GitHub - schorschinho/MRSDeIdentificationTools: Tools to remove protected hea...,2,1
 MRSDeIdentificationTools,2022-08-25,,GitHub - schorschinho/MRSDeIdentificationTools: Tools to remove protected hea...,2,1
+MRSDeIdentificationTools,2022-08-26,,GitHub - schorschinho/MRSDeIdentificationTools: Tools to remove protected hea...,2,1
 github-stats-osprey,2022-02-11,,schorschinho/github-stats-osprey,4,1
 github-stats-osprey,2022-02-11,blob/main/.github/workflows/gh-pages-deploy.yml,github-stats-osprey/gh-pages-deploy.yml at main · schorschinho/github-stats-o...,1,1
 github-stats-osprey,2022-02-11,edit/main/.github/workflows/gh-pages-deploy.yml,Editing github-stats-osprey/gh-pages-deploy.yml at main · schorschinho/github...,1,1
@@ -2547,6 +2556,7 @@ nifti-mrs-matlab,2022-08-22,tree/main/README_images,nifti-mrs-matlab/README_imag
 nifti-mrs-matlab,2022-08-23,,GitHub - schorschinho/nifti-mrs-matlab: A minimal example demonstrating the i...,3,3
 nifti-mrs-matlab,2022-08-24,,GitHub - schorschinho/nifti-mrs-matlab: A minimal example demonstrating the i...,2,2
 nifti-mrs-matlab,2022-08-25,,GitHub - schorschinho/nifti-mrs-matlab: A minimal example demonstrating the i...,2,2
+nifti-mrs-matlab,2022-08-26,,GitHub - schorschinho/nifti-mrs-matlab: A minimal example demonstrating the i...,2,2
 osprey,2022-02-10,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,154,74
 osprey,2022-02-10,blob/90cc9caa7493784b2e5de5b7b782a987ad1ced03/libraries/FID-A/fitTools/fitModels/Osprey/fit_OspreyPrelimStep2.m,osprey/fit_OspreyPrelimStep2.m at 90cc9caa7493784b2e5de5b7b782a987ad1ced03 · ...,4,2
 osprey,2022-02-10,blob/develop/libraries/FID-A/inputOutput/io_writelcm.m,osprey/io_writelcm.m at develop · schorschinho/osprey · GitHub,5,3
@@ -4497,6 +4507,16 @@ osprey,2022-08-25,pull/505,[BUG] - GUI crash for user defined metabs- OspreyJob 
 osprey,2022-08-25,pull/505/files,[BUG] - GUI crash for user defined metabs- OspreyJob - Bethany Stennett by HJ...,4,4
 osprey,2022-08-25,pulls,Pull requests · schorschinho/osprey · GitHub,6,2
 osprey,2022-08-25,search,Search · spline,12,2
+osprey,2022-08-26,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,165,74
+osprey,2022-08-26,commit/4f64a4dffcbf8ff944f4454dbaa8443f11d3692b,[FEATURE] - XA30 loader Siemens WIP MEGA - load_twix - gunziyhu · schorschinh...,6,1
+osprey,2022-08-26,compare/develop...HJZollner:osprey:develop,Comparing schorschinho:develop...HJZollner:develop · schorschinho/osprey,7,1
+osprey,2022-08-26,issues,Issues · schorschinho/osprey · GitHub,23,7
+osprey,2022-08-26,issues/new,New Issue · schorschinho/osprey,8,2
+osprey,2022-08-26,issues/new/choose,New Issue · schorschinho/osprey,5,2
+osprey,2022-08-26,pull/505,[BUG] - GUI crash for user defined metabs- OspreyJob - Bethany Stennett by HJ...,4,4
+osprey,2022-08-26,pulls,Pull requests · schorschinho/osprey · GitHub,6,2
+osprey,2022-08-26,releases,Releases · schorschinho/osprey · GitHub,5,5
+osprey,2022-08-26,search,Search · spline,11,1
 osprey-dw-workshop,2022-02-10,tree/main/osprey-develop,osprey-dw-workshop/osprey-develop at main · schorschinho/osprey-dw-workshop ·...,1,1
 osprey-dw-workshop,2022-02-11,blob/a03f47d78791a9b95e98497898eb3aad409f16cb/osprey-dwmrs/docs_source/05-helpers.Rmd,osprey-dw-workshop/05-helpers.Rmd at a03f47d78791a9b95e98497898eb3aad409f16cb...,1,1
 osprey-dw-workshop,2022-02-11,blob/main/osprey-develop/exampledata/twix/jobTwix.m,osprey-dw-workshop/jobTwix.m at main · schorschinho/osprey-dw-workshop · GitHub,1,1
@@ -4956,3 +4976,6 @@ osprey-dw-workshop,2022-08-24,blob/6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad/spm1
 osprey-dw-workshop,2022-08-25,,GitHub - schorschinho/osprey-dw-workshop: Practical Notebooks for DW-MRS Work...,1,1
 osprey-dw-workshop,2022-08-25,blob/6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad/spm12/toolbox/DEM/DFP_demo_double_well.m,osprey-dw-workshop/DFP_demo_double_well.m at 6a21ec14b7f8f1e6bb14fdae9c2a7c19...,1,1
 osprey-dw-workshop,2022-08-25,blob/6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad/spm12/toolbox/mci/Contents.m,osprey-dw-workshop/Contents.m at 6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad · s...,2,1
+osprey-dw-workshop,2022-08-26,,GitHub - schorschinho/osprey-dw-workshop: Practical Notebooks for DW-MRS Work...,1,1
+osprey-dw-workshop,2022-08-26,blob/6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad/spm12/toolbox/DEM/DFP_demo_double_well.m,osprey-dw-workshop/DFP_demo_double_well.m at 6a21ec14b7f8f1e6bb14fdae9c2a7c19...,1,1
+osprey-dw-workshop,2022-08-26,blob/6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad/spm12/toolbox/mci/Contents.m,osprey-dw-workshop/Contents.m at 6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad · s...,2,1
