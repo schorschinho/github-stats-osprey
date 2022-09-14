@@ -1550,6 +1550,15 @@ LCModel,2022-09-13,tree/main/binaries,LCModel/binaries at main · schorschinho/L
 LCModel,2022-09-13,tree/main/binaries/macos/catalina,LCModel/binaries/macos/catalina at main · schorschinho/LCModel,1,1
 LCModel,2022-09-13,tree/main/binaries/win/win10,LCModel/binaries/win/win10 at main · schorschinho/LCModel · GitHub,1,1
 LCModel,2022-09-13,tree/main/test_lcm,LCModel/test_lcm at main · schorschinho/LCModel · GitHub,3,2
+LCModel,2022-09-14,,schorschinho/LCModel: A collection of compiled LCModel binaries for various o...,17,13
+LCModel,2022-09-14,blob/main/README.md,LCModel/README.md at main · schorschinho/LCModel · GitHub,1,1
+LCModel,2022-09-14,blob/main/binaries/win/win10/LCModel.exe.zip,LCModel/LCModel.exe.zip at main · schorschinho/LCModel · GitHub,2,2
+LCModel,2022-09-14,blob/main/binaries/win/win10/LICENSE.md,LCModel/LICENSE.md at main · schorschinho/LCModel · GitHub,1,1
+LCModel,2022-09-14,branches,Branches · schorschinho/LCModel · GitHub,1,1
+LCModel,2022-09-14,tree/main/binaries,LCModel/binaries at main · schorschinho/LCModel · GitHub,1,1
+LCModel,2022-09-14,tree/main/binaries/win/win10,LCModel/binaries/win/win10 at main · schorschinho/LCModel · GitHub,1,1
+LCModel,2022-09-14,tree/main/source,LCModel/source at main · schorschinho/LCModel · GitHub,1,1
+LCModel,2022-09-14,tree/main/test_lcm,LCModel/test_lcm at main · schorschinho/LCModel · GitHub,3,2
 MRSDeIdentificationTools,2022-02-24,,schorschinho/MRSDeIdentificationTools: Tools to remove protected health infor...,3,2
 MRSDeIdentificationTools,2022-02-24,blob/master/PhilipsDeIdentify.m,MRSDeIdentificationTools/PhilipsDeIdentify.m at master · schorschinho/MRSDeId...,1,1
 MRSDeIdentificationTools,2022-02-24,blob/master/README.md,MRSDeIdentificationTools/README.md at master · schorschinho/MRSDeIdentificati...,1,1
@@ -1882,6 +1891,7 @@ MRSDeIdentificationTools,2022-09-10,,schorschinho/MRSDeIdentificationTools: Tool
 MRSDeIdentificationTools,2022-09-11,,schorschinho/MRSDeIdentificationTools: Tools to remove protected health infor...,2,2
 MRSDeIdentificationTools,2022-09-12,,schorschinho/MRSDeIdentificationTools: Tools to remove protected health infor...,2,2
 MRSDeIdentificationTools,2022-09-13,,schorschinho/MRSDeIdentificationTools: Tools to remove protected health infor...,2,2
+MRSDeIdentificationTools,2022-09-14,,schorschinho/MRSDeIdentificationTools: Tools to remove protected health infor...,2,2
 github-stats-osprey,2022-02-11,,schorschinho/github-stats-osprey,4,1
 github-stats-osprey,2022-02-11,blob/main/.github/workflows/gh-pages-deploy.yml,github-stats-osprey/gh-pages-deploy.yml at main · schorschinho/github-stats-o...,1,1
 github-stats-osprey,2022-02-11,edit/main/.github/workflows/gh-pages-deploy.yml,Editing github-stats-osprey/gh-pages-deploy.yml at main · schorschinho/github...,1,1
@@ -2181,6 +2191,7 @@ github-stats-osprey,2022-08-13,runs/7595963000,Deploy GitHub pages with traffic 
 github-stats-osprey,2022-08-13,tree/main/data,github-stats-osprey/data at main · schorschinho/github-stats-osprey,2,1
 github-stats-osprey,2022-09-12,,schorschinho/github-stats-osprey,1,1
 github-stats-osprey,2022-09-13,,schorschinho/github-stats-osprey,1,1
+github-stats-osprey,2022-09-14,,schorschinho/github-stats-osprey,1,1
 lcmodel,2022-03-12,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,1,1
 lcmodel,2022-03-13,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,1,1
 lcmodel,2022-03-14,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,1,1
@@ -2786,6 +2797,9 @@ nifti-mrs-matlab,2022-09-12,tree/590aadf5482c59f69b8c5247045d7786a222b0a1/README
 nifti-mrs-matlab,2022-09-13,,schorschinho/nifti-mrs-matlab: A minimal example demonstrating the import of ...,1,1
 nifti-mrs-matlab,2022-09-13,tree/590aadf5482c59f69b8c5247045d7786a222b0a1,schorschinho/nifti-mrs-matlab at 590aadf5482c59f69b8c5247045d7786a222b0a1,2,2
 nifti-mrs-matlab,2022-09-13,tree/590aadf5482c59f69b8c5247045d7786a222b0a1/README_images,nifti-mrs-matlab/README_images at 590aadf5482c59f69b8c5247045d7786a222b0a1 · ...,1,1
+nifti-mrs-matlab,2022-09-14,,schorschinho/nifti-mrs-matlab: A minimal example demonstrating the import of ...,1,1
+nifti-mrs-matlab,2022-09-14,tree/590aadf5482c59f69b8c5247045d7786a222b0a1,schorschinho/nifti-mrs-matlab at 590aadf5482c59f69b8c5247045d7786a222b0a1,2,2
+nifti-mrs-matlab,2022-09-14,tree/590aadf5482c59f69b8c5247045d7786a222b0a1/README_images,nifti-mrs-matlab/README_images at 590aadf5482c59f69b8c5247045d7786a222b0a1 · ...,1,1
 osprey,2022-02-10,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,154,74
 osprey,2022-02-10,blob/90cc9caa7493784b2e5de5b7b782a987ad1ced03/libraries/FID-A/fitTools/fitModels/Osprey/fit_OspreyPrelimStep2.m,osprey/fit_OspreyPrelimStep2.m at 90cc9caa7493784b2e5de5b7b782a987ad1ced03 · ...,4,2
 osprey,2022-02-10,blob/develop/libraries/FID-A/inputOutput/io_writelcm.m,osprey/io_writelcm.m at develop · schorschinho/osprey · GitHub,5,3
@@ -4926,6 +4940,16 @@ osprey,2022-09-13,search,Search · OspreyQuantify,35,5
 osprey,2022-09-13,tree/develop/exampledata,osprey/exampledata at develop · schorschinho/osprey · GitHub,8,3
 osprey,2022-09-13,tree/develop/fit/basissets/3T,osprey/fit/basissets/3T at develop · schorschinho/osprey · GitHub,6,2
 osprey,2022-09-13,tree/develop/load,osprey/load at develop · schorschinho/osprey · GitHub,6,3
+osprey,2022-09-14,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,175,91
+osprey,2022-09-14,compare/develop...HJZollner:osprey:develop,Comparing schorschinho:develop...HJZollner:develop · schorschinho/osprey,8,1
+osprey,2022-09-14,issues,Issues · schorschinho/osprey,6,4
+osprey,2022-09-14,pull/512,osp_exportParam - exporting fitting parameters by JohnLaMaster · Pull Request...,11,5
+osprey,2022-09-14,pulls,Pull requests · schorschinho/osprey · GitHub,9,4
+osprey,2022-09-14,releases,Releases · schorschinho/osprey · GitHub,8,7
+osprey,2022-09-14,search,Search · OspreyQuantify,17,4
+osprey,2022-09-14,tree/develop/exampledata,osprey/exampledata at develop · schorschinho/osprey · GitHub,8,3
+osprey,2022-09-14,tree/develop/fit/basissets/3T,osprey/fit/basissets/3T at develop · schorschinho/osprey · GitHub,6,2
+osprey,2022-09-14,tree/develop/load,osprey/load at develop · schorschinho/osprey · GitHub,6,3
 osprey-dw-workshop,2022-02-10,tree/main/osprey-develop,osprey-dw-workshop/osprey-develop at main · schorschinho/osprey-dw-workshop ·...,1,1
 osprey-dw-workshop,2022-02-11,blob/a03f47d78791a9b95e98497898eb3aad409f16cb/osprey-dwmrs/docs_source/05-helpers.Rmd,osprey-dw-workshop/05-helpers.Rmd at a03f47d78791a9b95e98497898eb3aad409f16cb...,1,1
 osprey-dw-workshop,2022-02-11,blob/main/osprey-develop/exampledata/twix/jobTwix.m,osprey-dw-workshop/jobTwix.m at main · schorschinho/osprey-dw-workshop · GitHub,1,1
@@ -5430,3 +5454,6 @@ osprey-dw-workshop,2022-09-12,tree/a03f47d78791a9b95e98497898eb3aad409f16cb/InVi
 osprey-dw-workshop,2022-09-13,blob/a03f47d78791a9b95e98497898eb3aad409f16cb/osprey-dwmrs/libraries/FID-A/processingTools/op_takeVoxel.m,osprey-dw-workshop/op_takeVoxel.m at a03f47d78791a9b95e98497898eb3aad409f16cb...,1,1
 osprey-dw-workshop,2022-09-13,tree/a03f47d78791a9b95e98497898eb3aad409f16cb,schorschinho/osprey-dw-workshop at a03f47d78791a9b95e98497898eb3aad409f16cb,1,1
 osprey-dw-workshop,2022-09-13,tree/a03f47d78791a9b95e98497898eb3aad409f16cb/InVivo-Data,osprey-dw-workshop/InVivo-Data at a03f47d78791a9b95e98497898eb3aad409f16cb · ...,1,1
+osprey-dw-workshop,2022-09-14,blob/a03f47d78791a9b95e98497898eb3aad409f16cb/osprey-dwmrs/libraries/FID-A/processingTools/op_takeVoxel.m,osprey-dw-workshop/op_takeVoxel.m at a03f47d78791a9b95e98497898eb3aad409f16cb...,1,1
+osprey-dw-workshop,2022-09-14,tree/a03f47d78791a9b95e98497898eb3aad409f16cb,schorschinho/osprey-dw-workshop at a03f47d78791a9b95e98497898eb3aad409f16cb,1,1
+osprey-dw-workshop,2022-09-14,tree/a03f47d78791a9b95e98497898eb3aad409f16cb/InVivo-Data,osprey-dw-workshop/InVivo-Data at a03f47d78791a9b95e98497898eb3aad409f16cb · ...,1,1
