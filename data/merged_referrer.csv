@@ -1178,6 +1178,11 @@ LCModel,2022-12-17,StartPage,2,1
 LCModel,2022-12-17,Yahoo,2,1
 LCModel,2022-12-17,forum.mrshub.org,2,1
 LCModel,2022-12-17,github.com,1,1
+LCModel,2022-12-18,Bing,1,1
+LCModel,2022-12-18,Google,47,10
+LCModel,2022-12-18,StartPage,2,1
+LCModel,2022-12-18,Yahoo,2,1
+LCModel,2022-12-18,github.com,1,1
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -1496,6 +1501,7 @@ MRSDeIdentificationTools,2022-12-15,github.com,1,1
 MRSDeIdentificationTools,2022-12-16,Google,1,1
 MRSDeIdentificationTools,2022-12-16,github.com,1,1
 MRSDeIdentificationTools,2022-12-17,Google,1,1
+MRSDeIdentificationTools,2022-12-18,Google,1,1
 github-stats-osprey,2022-02-11,github.com,3,1
 github-stats-osprey,2022-02-12,github.com,3,1
 github-stats-osprey,2022-02-13,github.com,3,1
@@ -2279,6 +2285,9 @@ nifti-mrs-matlab,2022-12-16,onlinelibrary.wiley.com,1,1
 nifti-mrs-matlab,2022-12-17,Google,2,2
 nifti-mrs-matlab,2022-12-17,github.com,4,2
 nifti-mrs-matlab,2022-12-17,onlinelibrary.wiley.com,1,1
+nifti-mrs-matlab,2022-12-18,Google,2,2
+nifti-mrs-matlab,2022-12-18,github.com,4,2
+nifti-mrs-matlab,2022-12-18,onlinelibrary.wiley.com,1,1
 osprey,2022-02-10,Bing,18,2
 osprey,2022-02-10,DuckDuckGo,1,1
 osprey,2022-02-10,Google,84,39
@@ -5352,6 +5361,16 @@ osprey,2022-12-17,mrshub.org,8,4
 osprey,2022-12-17,schorschinho.github.io,18,10
 osprey,2022-12-17,search.brave.com,2,1
 osprey,2022-12-17,specfitlab.com,7,3
+osprey,2022-12-18,Bing,3,3
+osprey,2022-12-18,Google,82,26
+osprey,2022-12-18,forum.mrshub.org,13,4
+osprey,2022-12-18,github.com,28,8
+osprey,2022-12-18,mri-resource.kennedykrieger.org,2,2
+osprey,2022-12-18,mrshub.netlify.app,4,1
+osprey,2022-12-18,mrshub.org,8,4
+osprey,2022-12-18,schorschinho.github.io,18,10
+osprey,2022-12-18,search.brave.com,2,1
+osprey,2022-12-18,specfitlab.com,7,3
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
