@@ -1191,6 +1191,10 @@ LCModel,2022-12-20,Google,47,10
 LCModel,2022-12-20,StartPage,2,1
 LCModel,2022-12-20,Yahoo,2,1
 LCModel,2022-12-20,github.com,1,1
+LCModel,2022-12-21,Google,29,8
+LCModel,2022-12-21,StartPage,2,1
+LCModel,2022-12-21,Yahoo,2,1
+LCModel,2022-12-21,github.com,1,1
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -1514,6 +1518,8 @@ MRSDeIdentificationTools,2022-12-19,Google,1,1
 MRSDeIdentificationTools,2022-12-19,mrshub.netlify.app,1,1
 MRSDeIdentificationTools,2022-12-20,Google,1,1
 MRSDeIdentificationTools,2022-12-20,mrshub.netlify.app,1,1
+MRSDeIdentificationTools,2022-12-21,Google,1,1
+MRSDeIdentificationTools,2022-12-21,mrshub.netlify.app,1,1
 github-stats-osprey,2022-02-11,github.com,3,1
 github-stats-osprey,2022-02-12,github.com,3,1
 github-stats-osprey,2022-02-13,github.com,3,1
@@ -2306,6 +2312,8 @@ nifti-mrs-matlab,2022-12-19,onlinelibrary.wiley.com,1,1
 nifti-mrs-matlab,2022-12-20,Google,1,1
 nifti-mrs-matlab,2022-12-20,github.com,1,1
 nifti-mrs-matlab,2022-12-20,onlinelibrary.wiley.com,1,1
+nifti-mrs-matlab,2022-12-21,Google,1,1
+nifti-mrs-matlab,2022-12-21,github.com,1,1
 osprey,2022-02-10,Bing,18,2
 osprey,2022-02-10,DuckDuckGo,1,1
 osprey,2022-02-10,Google,84,39
@@ -5409,6 +5417,16 @@ osprey,2022-12-20,mrshub.org,6,4
 osprey,2022-12-20,schorschinho.github.io,20,10
 osprey,2022-12-20,search.brave.com,2,1
 osprey,2022-12-20,specfitlab.com,10,6
+osprey,2022-12-21,Bing,3,2
+osprey,2022-12-21,Google,72,19
+osprey,2022-12-21,forum.mrshub.org,7,5
+osprey,2022-12-21,github.com,25,7
+osprey,2022-12-21,mri-resource.kennedykrieger.org,2,2
+osprey,2022-12-21,mrshub.netlify.app,25,3
+osprey,2022-12-21,mrshub.org,5,3
+osprey,2022-12-21,schorschinho.github.io,20,10
+osprey,2022-12-21,search.brave.com,2,1
+osprey,2022-12-21,specfitlab.com,6,5
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
