@@ -1195,6 +1195,10 @@ LCModel,2022-12-21,Google,29,8
 LCModel,2022-12-21,StartPage,2,1
 LCModel,2022-12-21,Yahoo,2,1
 LCModel,2022-12-21,github.com,1,1
+LCModel,2022-12-22,Google,36,14
+LCModel,2022-12-22,Yahoo,2,1
+LCModel,2022-12-22,forum.mrshub.org,1,1
+LCModel,2022-12-22,github.com,1,1
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -1520,6 +1524,8 @@ MRSDeIdentificationTools,2022-12-20,Google,1,1
 MRSDeIdentificationTools,2022-12-20,mrshub.netlify.app,1,1
 MRSDeIdentificationTools,2022-12-21,Google,1,1
 MRSDeIdentificationTools,2022-12-21,mrshub.netlify.app,1,1
+MRSDeIdentificationTools,2022-12-22,Google,1,1
+MRSDeIdentificationTools,2022-12-22,mrshub.netlify.app,1,1
 github-stats-osprey,2022-02-11,github.com,3,1
 github-stats-osprey,2022-02-12,github.com,3,1
 github-stats-osprey,2022-02-13,github.com,3,1
@@ -2314,6 +2320,8 @@ nifti-mrs-matlab,2022-12-20,github.com,1,1
 nifti-mrs-matlab,2022-12-20,onlinelibrary.wiley.com,1,1
 nifti-mrs-matlab,2022-12-21,Google,1,1
 nifti-mrs-matlab,2022-12-21,github.com,1,1
+nifti-mrs-matlab,2022-12-22,Google,3,2
+nifti-mrs-matlab,2022-12-22,github.com,1,1
 osprey,2022-02-10,Bing,18,2
 osprey,2022-02-10,DuckDuckGo,1,1
 osprey,2022-02-10,Google,84,39
@@ -5427,6 +5435,16 @@ osprey,2022-12-21,mrshub.org,5,3
 osprey,2022-12-21,schorschinho.github.io,20,10
 osprey,2022-12-21,search.brave.com,2,1
 osprey,2022-12-21,specfitlab.com,6,5
+osprey,2022-12-22,Bing,3,1
+osprey,2022-12-22,Google,85,22
+osprey,2022-12-22,forum.mrshub.org,12,6
+osprey,2022-12-22,github.com,24,6
+osprey,2022-12-22,mri-resource.kennedykrieger.org,2,2
+osprey,2022-12-22,mrshub.netlify.app,50,6
+osprey,2022-12-22,mrshub.org,5,3
+osprey,2022-12-22,schorschinho.github.io,17,8
+osprey,2022-12-22,search.brave.com,1,1
+osprey,2022-12-22,specfitlab.com,4,4
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
