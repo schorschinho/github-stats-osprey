@@ -2472,6 +2472,15 @@ LCModel,2023-01-10,search,Search · hjzollner,2,1
 LCModel,2023-01-10,tree/main/binaries,LCModel/binaries at main · schorschinho/LCModel,1,1
 LCModel,2023-01-10,tree/main/binaries/win/win10,LCModel/binaries/win/win10 at main · schorschinho/LCModel,1,1
 LCModel,2023-01-10,tree/main/test_lcm,LCModel/test_lcm at main · schorschinho/LCModel,1,1
+LCModel,2023-01-11,,schorschinho/LCModel: A collection of compiled LCModel binaries for various o...,24,13
+LCModel,2023-01-11,blob/main/binaries/macos/catalina/lcmodel.zip,LCModel/lcmodel.zip at main · schorschinho/LCModel · GitHub,3,1
+LCModel,2023-01-11,blob/main/binaries/win/win10/LCModel.exe.zip,LCModel/LCModel.exe.zip at main · schorschinho/LCModel · GitHub,6,4
+LCModel,2023-01-11,commit/6432ef3194beb742501b61175834e34cb3adbc9e,Merge pull request #1 from HJZollner/main · schorschinho/LCModel@6432ef3,1,1
+LCModel,2023-01-11,commits,Commits · schorschinho/LCModel,3,1
+LCModel,2023-01-11,search,Search · hjzollner,2,1
+LCModel,2023-01-11,tree/main/binaries,LCModel/binaries at main · schorschinho/LCModel,1,1
+LCModel,2023-01-11,tree/main/binaries/win/win10,LCModel/binaries/win/win10 at main · schorschinho/LCModel,1,1
+LCModel,2023-01-11,tree/main/test_lcm,LCModel/test_lcm at main · schorschinho/LCModel,1,1
 MRSDeIdentificationTools,2022-02-24,,schorschinho/MRSDeIdentificationTools: Tools to remove protected health infor...,3,2
 MRSDeIdentificationTools,2022-02-24,blob/master/PhilipsDeIdentify.m,MRSDeIdentificationTools/PhilipsDeIdentify.m at master · schorschinho/MRSDeId...,1,1
 MRSDeIdentificationTools,2022-02-24,blob/master/README.md,MRSDeIdentificationTools/README.md at master · schorschinho/MRSDeIdentificati...,1,1
@@ -3409,6 +3418,7 @@ github-stats-osprey,2023-01-07,actions/runs/3819996337,Deploy GitHub pages with 
 github-stats-osprey,2023-01-08,actions/runs/3819996337,Deploy GitHub pages with traffic stats · schorschinho/github-stats-osprey@fb1...,1,1
 github-stats-osprey,2023-01-09,actions/runs/3819996337,Deploy GitHub pages with traffic stats · schorschinho/github-stats-osprey@fb1...,1,1
 github-stats-osprey,2023-01-10,actions/runs/3819996337,Deploy GitHub pages with traffic stats · schorschinho/github-stats-osprey@fb1...,1,1
+github-stats-osprey,2023-01-11,actions/runs/3819996337,Deploy GitHub pages with traffic stats · schorschinho/github-stats-osprey@fb1...,1,1
 lcmodel,2022-03-12,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,1,1
 lcmodel,2022-03-13,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,1,1
 lcmodel,2022-03-14,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,1,1
@@ -4336,6 +4346,8 @@ nifti-mrs-matlab,2023-01-07,,GitHub - schorschinho/nifti-mrs-matlab: A minimal e
 nifti-mrs-matlab,2023-01-08,,GitHub - schorschinho/nifti-mrs-matlab: A minimal example demonstrating the i...,1,1
 nifti-mrs-matlab,2023-01-09,,GitHub - schorschinho/nifti-mrs-matlab: A minimal example demonstrating the i...,1,1
 nifti-mrs-matlab,2023-01-10,,GitHub - schorschinho/nifti-mrs-matlab: A minimal example demonstrating the i...,1,1
+nifti-mrs-matlab,2023-01-11,,schorschinho/nifti-mrs-matlab: A minimal example demonstrating the import of ...,5,4
+nifti-mrs-matlab,2023-01-11,blob/main/LICENSE,nifti-mrs-matlab/LICENSE at main · schorschinho/nifti-mrs-matlab,1,1
 osprey,2022-02-10,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,154,74
 osprey,2022-02-10,blob/90cc9caa7493784b2e5de5b7b782a987ad1ced03/libraries/FID-A/fitTools/fitModels/Osprey/fit_OspreyPrelimStep2.m,osprey/fit_OspreyPrelimStep2.m at 90cc9caa7493784b2e5de5b7b782a987ad1ced03 · ...,4,2
 osprey,2022-02-10,blob/develop/libraries/FID-A/inputOutput/io_writelcm.m,osprey/io_writelcm.m at develop · schorschinho/osprey · GitHub,5,3
@@ -7596,6 +7608,16 @@ osprey,2023-01-10,releases/tag/v1.1.0,Release Osprey v1.1.0 · schorschinho/ospr
 osprey,2023-01-10,tree/develop/exampledata,osprey/exampledata at develop · schorschinho/osprey · GitHub,9,7
 osprey,2023-01-10,tree/develop/exampledata/sdat,osprey/exampledata/sdat at develop · schorschinho/osprey · GitHub,6,5
 osprey,2023-01-10,tree/develop/exampledata/sdat/MEGA,osprey/exampledata/sdat/MEGA at develop · schorschinho/osprey · GitHub,4,3
+osprey,2023-01-11,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,132,58
+osprey,2023-01-11,issues,Issues · schorschinho/osprey · GitHub,3,3
+osprey,2023-01-11,releases,Releases · schorschinho/osprey,12,6
+osprey,2023-01-11,releases/tag/v1.1.0,Release Osprey v1.1.0 · schorschinho/osprey · GitHub,3,3
+osprey,2023-01-11,tree/develop/exampledata,osprey/exampledata at develop · schorschinho/osprey · GitHub,8,6
+osprey,2023-01-11,tree/develop/exampledata/sdat,osprey/exampledata/sdat at develop · schorschinho/osprey · GitHub,6,5
+osprey,2023-01-11,tree/develop/exampledata/sdat/MEGA,osprey/exampledata/sdat/MEGA at develop · schorschinho/osprey · GitHub,4,3
+osprey,2023-01-11,tree/develop/libraries,osprey/libraries at develop · schorschinho/osprey,4,1
+osprey,2023-01-11,tree/develop/load,osprey/load at develop · schorschinho/osprey,4,1
+osprey,2023-01-11,tree/develop/utilities,osprey/utilities at develop · schorschinho/osprey · GitHub,5,3
 osprey-dw-workshop,2022-02-10,tree/main/osprey-develop,osprey-dw-workshop/osprey-develop at main · schorschinho/osprey-dw-workshop ·...,1,1
 osprey-dw-workshop,2022-02-11,blob/a03f47d78791a9b95e98497898eb3aad409f16cb/osprey-dwmrs/docs_source/05-helpers.Rmd,osprey-dw-workshop/05-helpers.Rmd at a03f47d78791a9b95e98497898eb3aad409f16cb...,1,1
 osprey-dw-workshop,2022-02-11,blob/main/osprey-develop/exampledata/twix/jobTwix.m,osprey-dw-workshop/jobTwix.m at main · schorschinho/osprey-dw-workshop · GitHub,1,1
@@ -8227,3 +8249,5 @@ osprey-dw-workshop,2023-01-09,,schorschinho/osprey-dw-workshop: Practical Notebo
 osprey-dw-workshop,2023-01-09,blob/6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad/spm12/external/fieldtrip/external/signal/butter.m,osprey-dw-workshop/butter.m at 6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad · sch...,1,1
 osprey-dw-workshop,2023-01-10,,schorschinho/osprey-dw-workshop: Practical Notebooks for DW-MRS Workshop Leid...,1,1
 osprey-dw-workshop,2023-01-10,blob/6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad/spm12/external/fieldtrip/external/signal/butter.m,osprey-dw-workshop/butter.m at 6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad · sch...,1,1
+osprey-dw-workshop,2023-01-11,,schorschinho/osprey-dw-workshop: Practical Notebooks for DW-MRS Workshop Leid...,1,1
+osprey-dw-workshop,2023-01-11,blob/6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad/spm12/external/fieldtrip/external/signal/butter.m,osprey-dw-workshop/butter.m at 6a21ec14b7f8f1e6bb14fdae9c2a7c199f41d7ad · sch...,1,1
