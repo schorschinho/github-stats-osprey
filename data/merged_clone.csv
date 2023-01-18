@@ -22,6 +22,7 @@ LCModel,2022-12-07,2,1
 LCModel,2022-12-08,1,1
 LCModel,2022-12-21,1,1
 LCModel,2023-01-04,4,2
+LCModel,2023-01-17,3,2
 MRSDeIdentificationTools,2022-01-28,1,1
 MRSDeIdentificationTools,2022-03-08,1,1
 MRSDeIdentificationTools,2022-03-24,2,1
@@ -370,7 +371,7 @@ github-stats-osprey,2022-12-31,7,4
 github-stats-osprey,2023-01-01,1,1
 github-stats-osprey,2023-01-02,1,1
 github-stats-osprey,2023-01-03,5,3
-github-stats-osprey,2023-01-04,7,5
+github-stats-osprey,2023-01-04,4,3
 github-stats-osprey,2023-01-05,7,5
 github-stats-osprey,2023-01-06,6,4
 github-stats-osprey,2023-01-07,8,5
@@ -383,6 +384,7 @@ github-stats-osprey,2023-01-13,5,3
 github-stats-osprey,2023-01-14,10,7
 github-stats-osprey,2023-01-15,7,5
 github-stats-osprey,2023-01-16,9,7
+github-stats-osprey,2023-01-17,7,5
 nifti-mrs-matlab,2022-01-28,1,1
 nifti-mrs-matlab,2022-01-31,1,1
 nifti-mrs-matlab,2022-02-15,1,1
@@ -407,6 +409,7 @@ nifti-mrs-matlab,2022-12-17,1,1
 nifti-mrs-matlab,2023-01-03,2,1
 nifti-mrs-matlab,2023-01-04,4,2
 nifti-mrs-matlab,2023-01-12,1,1
+nifti-mrs-matlab,2023-01-17,1,1
 osprey,2022-01-28,2,1
 osprey,2022-02-01,4,3
 osprey,2022-02-07,1,1
@@ -567,7 +570,7 @@ osprey,2022-12-22,1,1
 osprey,2022-12-29,2,1
 osprey,2023-01-02,3,2
 osprey,2023-01-03,12,7
-osprey,2023-01-04,12,7
+osprey,2023-01-04,8,5
 osprey,2023-01-05,2,2
 osprey,2023-01-08,2,2
 osprey,2023-01-09,2,1
@@ -575,6 +578,8 @@ osprey,2023-01-10,2,2
 osprey,2023-01-12,5,4
 osprey,2023-01-13,1,1
 osprey,2023-01-16,1,1
+osprey,2023-01-17,5,4
+osprey,2023-01-18,1,1
 osprey-dw-workshop,2022-01-28,1,1
 osprey-dw-workshop,2022-04-08,1,1
 osprey-dw-workshop,2022-05-11,2,1
