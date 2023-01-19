@@ -1,0 +1,23 @@
+date,path,title,count,uniques
+2023-01-19,/schorschinho/LCModel,schorschinho/LCModel: A collection of compiled LCModel binaries for various o...,45,24
+2023-01-19,/schorschinho/LCModel/blob/main/binaries/win/win10/LCModel.exe.zip,LCModel/LCModel.exe.zip at main · schorschinho/LCModel · GitHub,13,9
+2023-01-19,/schorschinho/LCModel/blob/main/binaries/macos/catalina/lcmodel.zip,LCModel/lcmodel.zip at main · schorschinho/LCModel · GitHub,5,2
+2023-01-19,/schorschinho/LCModel/find/main,File Finder · GitHub,3,2
+2023-01-19,/schorschinho/LCModel/tree/main,schorschinho/LCModel: A collection of compiled LCModel binaries for various o...,2,2
+2023-01-19,/schorschinho/LCModel/tree/main/binaries,LCModel/binaries at main · schorschinho/LCModel · GitHub,2,2
+2023-01-19,/schorschinho/LCModel/commit/d45a1104d8615e6e48e931fb1d03611d28cf078e,Update README.md · schorschinho/LCModel@d45a110 · GitHub,1,1
+2023-01-19,/schorschinho/LCModel/tree/main/binaries/macos,LCModel/binaries/macos at main · schorschinho/LCModel · GitHub,1,1
+2023-01-19,/schorschinho/LCModel/tree/main/binaries/win/win10,LCModel/binaries/win/win10 at main · schorschinho/LCModel,1,1
+2023-01-19,/schorschinho/LCModel/tree/main/test_lcm,LCModel/test_lcm at main · schorschinho/LCModel,1,1
+2023-01-19,/schorschinho/nifti-mrs-matlab,schorschinho/nifti-mrs-matlab: A minimal example demonstrating the import of ...,8,7
+2023-01-19,/schorschinho/nifti-mrs-matlab/blob/main/LICENSE,nifti-mrs-matlab/LICENSE at main · schorschinho/nifti-mrs-matlab,1,1
+2023-01-19,/schorschinho/osprey,GitHub - schorschinho/osprey: All-in-one toolbox for processing of magnetic r...,157,78
+2023-01-19,/schorschinho/osprey/issues,Issues · schorschinho/osprey · GitHub,12,4
+2023-01-19,/schorschinho/osprey/tree/develop/exampledata,osprey/exampledata at develop · schorschinho/osprey · GitHub,10,8
+2023-01-19,/schorschinho/osprey/tree/develop/load,osprey/load at develop · schorschinho/osprey · GitHub,6,3
+2023-01-19,/schorschinho/osprey/blob/develop/libraries/FID-A/inputOutput/io_writelcm.m,osprey/io_writelcm.m at develop · schorschinho/osprey,6,1
+2023-01-19,/schorschinho/osprey/tree/develop/job,osprey/job at develop · schorschinho/osprey · GitHub,5,5
+2023-01-19,/schorschinho/osprey/releases,Releases · schorschinho/osprey,5,4
+2023-01-19,/schorschinho/osprey/tree/develop/exampledata/sdat,osprey/exampledata/sdat at develop · schorschinho/osprey · GitHub,5,4
+2023-01-19,/schorschinho/osprey/issues/353,[FEATURE REQUEST] Matlab compiled standalone version that does not require a ...,5,3
+2023-01-19,/schorschinho/osprey/tree/develop/utilities,osprey/utilities at develop · schorschinho/osprey · GitHub,5,3
