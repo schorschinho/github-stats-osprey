@@ -2571,6 +2571,16 @@ LCModel,2023-01-21,find/main,File Finder · GitHub,3,2
 LCModel,2023-01-21,tree/main,schorschinho/LCModel: A collection of compiled LCModel binaries for various o...,2,2
 LCModel,2023-01-21,tree/main/binaries,LCModel/binaries at main · schorschinho/LCModel · GitHub,3,3
 LCModel,2023-01-21,tree/main/binaries/macos,LCModel/binaries/macos at main · schorschinho/LCModel · GitHub,2,2
+LCModel,2023-01-22,,schorschinho/LCModel: A collection of compiled LCModel binaries for various o...,55,28
+LCModel,2023-01-22,blob/main/binaries/macos/catalina/intel/lcmodel.zip,LCModel/lcmodel.zip at main · schorschinho/LCModel,3,1
+LCModel,2023-01-22,blob/main/binaries/macos/catalina/lcmodel.zip,LCModel/lcmodel.zip at main · schorschinho/LCModel · GitHub,5,2
+LCModel,2023-01-22,blob/main/binaries/macos/monterey/m1/lcmodel.zip,LCModel/lcmodel.zip at main · schorschinho/LCModel,1,1
+LCModel,2023-01-22,blob/main/binaries/win/win10/LCModel.exe.zip,LCModel/LCModel.exe.zip at main · schorschinho/LCModel · GitHub,11,8
+LCModel,2023-01-22,commit/d45a1104d8615e6e48e931fb1d03611d28cf078e,Update README.md · schorschinho/LCModel@d45a110 · GitHub,1,1
+LCModel,2023-01-22,find/main,File Finder · GitHub,3,2
+LCModel,2023-01-22,tree/main,schorschinho/LCModel: A collection of compiled LCModel binaries for various o...,2,2
+LCModel,2023-01-22,tree/main/binaries,LCModel/binaries at main · schorschinho/LCModel · GitHub,3,3
+LCModel,2023-01-22,tree/main/binaries/macos,LCModel/binaries/macos at main · schorschinho/LCModel · GitHub,2,2
 MRSDeIdentificationTools,2022-02-24,,schorschinho/MRSDeIdentificationTools: Tools to remove protected health infor...,3,2
 MRSDeIdentificationTools,2022-02-24,blob/master/PhilipsDeIdentify.m,MRSDeIdentificationTools/PhilipsDeIdentify.m at master · schorschinho/MRSDeId...,1,1
 MRSDeIdentificationTools,2022-02-24,blob/master/README.md,MRSDeIdentificationTools/README.md at master · schorschinho/MRSDeIdentificati...,1,1
@@ -4462,6 +4472,8 @@ nifti-mrs-matlab,2023-01-20,,schorschinho/nifti-mrs-matlab: A minimal example de
 nifti-mrs-matlab,2023-01-20,blob/main/LICENSE,nifti-mrs-matlab/LICENSE at main · schorschinho/nifti-mrs-matlab,1,1
 nifti-mrs-matlab,2023-01-21,,schorschinho/nifti-mrs-matlab: A minimal example demonstrating the import of ...,9,7
 nifti-mrs-matlab,2023-01-21,blob/main/LICENSE,nifti-mrs-matlab/LICENSE at main · schorschinho/nifti-mrs-matlab,1,1
+nifti-mrs-matlab,2023-01-22,,schorschinho/nifti-mrs-matlab: A minimal example demonstrating the import of ...,9,7
+nifti-mrs-matlab,2023-01-22,blob/main/LICENSE,nifti-mrs-matlab/LICENSE at main · schorschinho/nifti-mrs-matlab,1,1
 osprey,2022-02-10,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,154,74
 osprey,2022-02-10,blob/90cc9caa7493784b2e5de5b7b782a987ad1ced03/libraries/FID-A/fitTools/fitModels/Osprey/fit_OspreyPrelimStep2.m,osprey/fit_OspreyPrelimStep2.m at 90cc9caa7493784b2e5de5b7b782a987ad1ced03 · ...,4,2
 osprey,2022-02-10,blob/develop/libraries/FID-A/inputOutput/io_writelcm.m,osprey/io_writelcm.m at develop · schorschinho/osprey · GitHub,5,3
@@ -7832,6 +7844,16 @@ osprey,2023-01-21,tree/develop/exampledata,osprey/exampledata at develop · scho
 osprey,2023-01-21,tree/develop/job,osprey/job at develop · schorschinho/osprey · GitHub,6,6
 osprey,2023-01-21,tree/develop/libraries,osprey/libraries at develop · schorschinho/osprey · GitHub,5,2
 osprey,2023-01-21,tree/develop/load,osprey/load at develop · schorschinho/osprey · GitHub,6,3
+osprey,2023-01-22,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,158,78
+osprey,2023-01-22,blob/develop/README.md,osprey/README.md at develop · schorschinho/osprey · GitHub,4,4
+osprey,2023-01-22,blob/develop/libraries/FID-A/inputOutput/io_writelcm.m,osprey/io_writelcm.m at develop · schorschinho/osprey,10,1
+osprey,2023-01-22,issues,Issues · schorschinho/osprey · GitHub,15,5
+osprey,2023-01-22,issues/353,[FEATURE REQUEST] Matlab compiled standalone version that does not require a ...,5,3
+osprey,2023-01-22,releases,Releases · schorschinho/osprey,5,4
+osprey,2023-01-22,tree/develop/exampledata,osprey/exampledata at develop · schorschinho/osprey · GitHub,10,6
+osprey,2023-01-22,tree/develop/job,osprey/job at develop · schorschinho/osprey · GitHub,6,6
+osprey,2023-01-22,tree/develop/libraries,osprey/libraries at develop · schorschinho/osprey · GitHub,5,2
+osprey,2023-01-22,tree/develop/load,osprey/load at develop · schorschinho/osprey · GitHub,6,3
 osprey-dw-workshop,2022-02-10,tree/main/osprey-develop,osprey-dw-workshop/osprey-develop at main · schorschinho/osprey-dw-workshop ·...,1,1
 osprey-dw-workshop,2022-02-11,blob/a03f47d78791a9b95e98497898eb3aad409f16cb/osprey-dwmrs/docs_source/05-helpers.Rmd,osprey-dw-workshop/05-helpers.Rmd at a03f47d78791a9b95e98497898eb3aad409f16cb...,1,1
 osprey-dw-workshop,2022-02-11,blob/main/osprey-develop/exampledata/twix/jobTwix.m,osprey-dw-workshop/jobTwix.m at main · schorschinho/osprey-dw-workshop · GitHub,1,1
