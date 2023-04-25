@@ -488,7 +488,7 @@ github-stats-osprey,2023-04-07,7,4
 github-stats-osprey,2023-04-08,5,3
 github-stats-osprey,2023-04-09,7,4
 github-stats-osprey,2023-04-10,1,1
-github-stats-osprey,2023-04-11,8,6
+github-stats-osprey,2023-04-11,1,1
 github-stats-osprey,2023-04-12,7,4
 github-stats-osprey,2023-04-13,5,3
 github-stats-osprey,2023-04-14,5,3
@@ -501,6 +501,7 @@ github-stats-osprey,2023-04-20,6,4
 github-stats-osprey,2023-04-21,6,4
 github-stats-osprey,2023-04-22,5,3
 github-stats-osprey,2023-04-23,6,4
+github-stats-osprey,2023-04-24,7,5
 nifti-mrs-matlab,2022-01-28,1,1
 nifti-mrs-matlab,2022-01-31,1,1
 nifti-mrs-matlab,2022-02-15,1,1
@@ -535,6 +536,7 @@ nifti-mrs-matlab,2023-02-21,1,1
 nifti-mrs-matlab,2023-02-25,2,2
 nifti-mrs-matlab,2023-03-02,4,2
 nifti-mrs-matlab,2023-03-03,1,1
+nifti-mrs-matlab,2023-04-24,1,1
 osprey,2022-01-28,2,1
 osprey,2022-02-01,4,3
 osprey,2022-02-07,1,1
@@ -758,6 +760,7 @@ osprey,2023-04-18,1,1
 osprey,2023-04-19,1,1
 osprey,2023-04-21,1,1
 osprey,2023-04-22,1,1
+osprey,2023-04-24,5,4
 osprey-dw-workshop,2022-01-28,1,1
 osprey-dw-workshop,2022-04-08,1,1
 osprey-dw-workshop,2022-05-11,2,1
