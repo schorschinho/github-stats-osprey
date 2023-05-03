@@ -1787,6 +1787,10 @@ LCModel,2023-05-02,Bing,4,2
 LCModel,2023-05-02,Google,80,26
 LCModel,2023-05-02,github.com,7,3
 LCModel,2023-05-02,lncd.pitt.edu,6,1
+LCModel,2023-05-03,Bing,4,2
+LCModel,2023-05-03,Google,68,23
+LCModel,2023-05-03,github.com,7,3
+LCModel,2023-05-03,lncd.pitt.edu,6,1
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -7656,6 +7660,16 @@ osprey,2023-05-02,mrshub.netlify.app,4,2
 osprey,2023-05-02,mrshub.org,21,3
 osprey,2023-05-02,schorschinho.github.io,15,7
 osprey,2023-05-02,specfitlab.com,4,2
+osprey,2023-05-03,Bing,16,2
+osprey,2023-05-03,Google,71,32
+osprey,2023-05-03,forum.mrshub.org,41,8
+osprey,2023-05-03,gabamrs.com,10,6
+osprey,2023-05-03,github.com,42,9
+osprey,2023-05-03,kennedykrieger.org,4,3
+osprey,2023-05-03,mrshub.netlify.app,4,2
+osprey,2023-05-03,mrshub.org,21,3
+osprey,2023-05-03,schorschinho.github.io,15,7
+osprey,2023-05-03,specfitlab.com,4,2
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
