@@ -319,6 +319,8 @@ LCModel,2023-06-03,1,1
 LCModel,2023-06-05,3,2
 LCModel,2023-06-06,6,3
 LCModel,2023-06-07,35,5
+LCModel,2023-06-08,27,10
+LCModel,2023-06-09,1,1
 MRSDeIdentificationTools,2022-02-23,5,2
 MRSDeIdentificationTools,2022-03-23,2,1
 MRSDeIdentificationTools,2022-03-24,1,1
@@ -386,6 +388,7 @@ MRSDeIdentificationTools,2023-05-30,1,1
 MRSDeIdentificationTools,2023-06-01,1,1
 MRSDeIdentificationTools,2023-06-04,1,1
 MRSDeIdentificationTools,2023-06-05,1,1
+MRSDeIdentificationTools,2023-06-08,2,1
 github-stats-osprey,2022-02-10,2,1
 github-stats-osprey,2022-02-22,2,1
 github-stats-osprey,2022-03-25,4,2
@@ -1024,7 +1027,7 @@ osprey,2023-05-22,83,16
 osprey,2023-05-23,35,14
 osprey,2023-05-24,14,9
 osprey,2023-05-25,14,9
-osprey,2023-05-26,73,21
+osprey,2023-05-26,46,17
 osprey,2023-05-27,18,4
 osprey,2023-05-28,8,4
 osprey,2023-05-29,41,9
@@ -1037,6 +1040,7 @@ osprey,2023-06-04,3,2
 osprey,2023-06-05,48,13
 osprey,2023-06-06,79,17
 osprey,2023-06-07,96,14
+osprey,2023-06-08,50,9
 osprey-dw-workshop,2022-01-30,1,1
 osprey-dw-workshop,2022-02-01,1,1
 osprey-dw-workshop,2022-02-06,1,1
