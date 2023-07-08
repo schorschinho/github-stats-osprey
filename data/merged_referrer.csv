@@ -2124,6 +2124,10 @@ LCModel,2023-07-07,Bing,9,2
 LCModel,2023-07-07,Google,150,25
 LCModel,2023-07-07,forum.mrshub.org,9,1
 LCModel,2023-07-07,github.com,2,2
+LCModel,2023-07-08,Bing,9,2
+LCModel,2023-07-08,Google,153,28
+LCModel,2023-07-08,forum.mrshub.org,11,2
+LCModel,2023-07-08,github.com,2,2
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -3939,6 +3943,8 @@ nifti-mrs-matlab,2023-07-06,Google,2,1
 nifti-mrs-matlab,2023-07-06,github.com,1,1
 nifti-mrs-matlab,2023-07-07,Google,2,1
 nifti-mrs-matlab,2023-07-07,github.com,1,1
+nifti-mrs-matlab,2023-07-08,Google,2,1
+nifti-mrs-matlab,2023-07-08,github.com,1,1
 osprey,2022-02-10,Bing,18,2
 osprey,2022-02-10,DuckDuckGo,1,1
 osprey,2022-02-10,Google,84,39
@@ -8908,6 +8914,16 @@ osprey,2023-07-07,mrshub.netlify.app,4,2
 osprey,2023-07-07,mrshub.org,15,4
 osprey,2023-07-07,schorschinho.github.io,37,11
 osprey,2023-07-07,youtube.com,16,1
+osprey,2023-07-08,Google,120,39
+osprey,2023-07-08,cn.bing.com,3,2
+osprey,2023-07-08,forum.mrshub.org,35,10
+osprey,2023-07-08,gabamrs.com,5,2
+osprey,2023-07-08,github.com,6,5
+osprey,2023-07-08,kennedykrieger.org,14,3
+osprey,2023-07-08,mrshub.netlify.app,4,2
+osprey,2023-07-08,mrshub.org,16,5
+osprey,2023-07-08,schorschinho.github.io,37,11
+osprey,2023-07-08,youtube.com,16,1
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
