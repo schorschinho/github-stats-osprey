@@ -368,6 +368,7 @@ LCModel,2023-08-02,13,3
 LCModel,2023-08-03,8,5
 LCModel,2023-08-04,1,1
 LCModel,2023-08-05,1,1
+LCModel,2023-08-06,6,1
 MRSDeIdentificationTools,2022-02-23,5,2
 MRSDeIdentificationTools,2022-03-23,2,1
 MRSDeIdentificationTools,2022-03-24,1,1
@@ -1159,7 +1160,7 @@ osprey,2023-07-20,47,14
 osprey,2023-07-21,10,5
 osprey,2023-07-22,61,8
 osprey,2023-07-23,5,3
-osprey,2023-07-24,35,9
+osprey,2023-07-24,34,8
 osprey,2023-07-25,97,16
 osprey,2023-07-26,31,8
 osprey,2023-07-27,84,10
@@ -1172,6 +1173,8 @@ osprey,2023-08-02,76,15
 osprey,2023-08-03,81,10
 osprey,2023-08-04,87,19
 osprey,2023-08-05,1,1
+osprey,2023-08-06,5,4
+osprey,2023-08-07,1,1
 osprey-dw-workshop,2022-01-30,1,1
 osprey-dw-workshop,2022-02-01,1,1
 osprey-dw-workshop,2022-02-06,1,1
