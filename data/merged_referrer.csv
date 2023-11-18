@@ -2757,6 +2757,13 @@ LCModel,2023-11-17,Yahoo,1,1
 LCModel,2023-11-17,cn.bing.com,20,3
 LCModel,2023-11-17,lncd.pitt.edu,4,2
 LCModel,2023-11-17,yandex.ru,3,2
+LCModel,2023-11-18,Bing,33,4
+LCModel,2023-11-18,DuckDuckGo,1,1
+LCModel,2023-11-18,Google,41,17
+LCModel,2023-11-18,Yahoo,1,1
+LCModel,2023-11-18,cn.bing.com,16,2
+LCModel,2023-11-18,lncd.pitt.edu,4,2
+LCModel,2023-11-18,yandex.ru,3,2
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -3781,6 +3788,7 @@ multi-language-mrs-processing,2023-11-14,github.com,1,1
 multi-language-mrs-processing,2023-11-15,github.com,1,1
 multi-language-mrs-processing,2023-11-16,github.com,1,1
 multi-language-mrs-processing,2023-11-17,github.com,1,1
+multi-language-mrs-processing,2023-11-18,github.com,2,1
 nifti-mrs-matlab,2022-02-10,github.com,1,1
 nifti-mrs-matlab,2022-02-11,github.com,1,1
 nifti-mrs-matlab,2022-02-12,github.com,1,1
@@ -5011,6 +5019,7 @@ nifti-mrs-matlab,2023-11-14,github.com,2,1
 nifti-mrs-matlab,2023-11-15,github.com,2,1
 nifti-mrs-matlab,2023-11-16,github.com,2,1
 nifti-mrs-matlab,2023-11-17,github.com,2,1
+nifti-mrs-matlab,2023-11-18,github.com,2,1
 osprey,2022-02-10,Bing,18,2
 osprey,2022-02-10,DuckDuckGo,1,1
 osprey,2022-02-10,Google,84,39
@@ -11300,6 +11309,16 @@ osprey,2023-11-17,mrshub.netlify.app,26,3
 osprey,2023-11-17,mrshub.org,26,3
 osprey,2023-11-17,schorschinho.github.io,85,12
 osprey,2023-11-17,specfitlab.com,15,2
+osprey,2023-11-18,Bing,14,6
+osprey,2023-11-18,Google,86,26
+osprey,2023-11-18,forum.mrshub.org,154,9
+osprey,2023-11-18,gabamrs.com,11,3
+osprey,2023-11-18,github.com,27,7
+osprey,2023-11-18,kennedykrieger.org,7,4
+osprey,2023-11-18,mrshub.netlify.app,26,3
+osprey,2023-11-18,mrshub.org,26,3
+osprey,2023-11-18,schorschinho.github.io,90,14
+osprey,2023-11-18,specfitlab.com,15,2
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
