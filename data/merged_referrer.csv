@@ -2771,6 +2771,13 @@ LCModel,2023-11-19,Yahoo,1,1
 LCModel,2023-11-19,cn.bing.com,16,2
 LCModel,2023-11-19,lncd.pitt.edu,4,2
 LCModel,2023-11-19,yandex.ru,1,1
+LCModel,2023-11-20,Bing,16,5
+LCModel,2023-11-20,DuckDuckGo,1,1
+LCModel,2023-11-20,Google,39,17
+LCModel,2023-11-20,Yahoo,1,1
+LCModel,2023-11-20,cn.bing.com,17,3
+LCModel,2023-11-20,forum.mrshub.org,6,2
+LCModel,2023-11-20,lncd.pitt.edu,4,2
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -3797,6 +3804,7 @@ multi-language-mrs-processing,2023-11-16,github.com,1,1
 multi-language-mrs-processing,2023-11-17,github.com,1,1
 multi-language-mrs-processing,2023-11-18,github.com,2,1
 multi-language-mrs-processing,2023-11-19,github.com,2,1
+multi-language-mrs-processing,2023-11-20,github.com,2,1
 nifti-mrs-matlab,2022-02-10,github.com,1,1
 nifti-mrs-matlab,2022-02-11,github.com,1,1
 nifti-mrs-matlab,2022-02-12,github.com,1,1
@@ -5029,6 +5037,7 @@ nifti-mrs-matlab,2023-11-16,github.com,2,1
 nifti-mrs-matlab,2023-11-17,github.com,2,1
 nifti-mrs-matlab,2023-11-18,github.com,2,1
 nifti-mrs-matlab,2023-11-19,github.com,2,1
+nifti-mrs-matlab,2023-11-20,github.com,2,1
 osprey,2022-02-10,Bing,18,2
 osprey,2022-02-10,DuckDuckGo,1,1
 osprey,2022-02-10,Google,84,39
@@ -11338,6 +11347,16 @@ osprey,2023-11-19,mrshub.netlify.app,26,3
 osprey,2023-11-19,mrshub.org,26,3
 osprey,2023-11-19,schorschinho.github.io,92,14
 osprey,2023-11-19,specfitlab.com,15,2
+osprey,2023-11-20,Bing,12,6
+osprey,2023-11-20,Google,86,27
+osprey,2023-11-20,forum.mrshub.org,227,9
+osprey,2023-11-20,gabamrs.com,29,4
+osprey,2023-11-20,github.com,27,7
+osprey,2023-11-20,mrshub.netlify.app,26,3
+osprey,2023-11-20,mrshub.org,26,3
+osprey,2023-11-20,nitrc.org,7,3
+osprey,2023-11-20,schorschinho.github.io,96,16
+osprey,2023-11-20,specfitlab.com,15,2
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
