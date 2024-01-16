@@ -3089,6 +3089,9 @@ LCModel,2024-01-14,cn.bing.com,4,2
 LCModel,2024-01-15,Bing,25,2
 LCModel,2024-01-15,Google,52,18
 LCModel,2024-01-15,cn.bing.com,4,2
+LCModel,2024-01-16,Bing,25,2
+LCModel,2024-01-16,Google,52,18
+LCModel,2024-01-16,cn.bing.com,4,2
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -3924,6 +3927,7 @@ MRSDeIdentificationTools,2024-01-12,forum.mrshub.org,9,2
 MRSDeIdentificationTools,2024-01-13,forum.mrshub.org,9,2
 MRSDeIdentificationTools,2024-01-14,forum.mrshub.org,9,2
 MRSDeIdentificationTools,2024-01-15,forum.mrshub.org,9,2
+MRSDeIdentificationTools,2024-01-16,forum.mrshub.org,6,1
 github-stats-osprey,2022-02-11,github.com,3,1
 github-stats-osprey,2022-02-12,github.com,3,1
 github-stats-osprey,2022-02-13,github.com,3,1
@@ -4233,6 +4237,7 @@ multi-language-mrs-processing,2024-01-12,Bing,1,1
 multi-language-mrs-processing,2024-01-13,Bing,1,1
 multi-language-mrs-processing,2024-01-14,Bing,1,1
 multi-language-mrs-processing,2024-01-15,Bing,1,1
+multi-language-mrs-processing,2024-01-16,Bing,1,1
 nifti-mrs-matlab,2022-02-10,github.com,1,1
 nifti-mrs-matlab,2022-02-11,github.com,1,1
 nifti-mrs-matlab,2022-02-12,github.com,1,1
@@ -12435,6 +12440,16 @@ osprey,2024-01-15,mrshub.netlify.app,5,2
 osprey,2024-01-15,mrshub.org,7,5
 osprey,2024-01-15,nitrc.org,2,2
 osprey,2024-01-15,schorschinho.github.io,42,8
+osprey,2024-01-16,Bing,5,4
+osprey,2024-01-16,Google,77,43
+osprey,2024-01-16,StartPage,1,1
+osprey,2024-01-16,cn.bing.com,6,4
+osprey,2024-01-16,forum.mrshub.org,6,2
+osprey,2024-01-16,gabamrs.com,1,1
+osprey,2024-01-16,github.com,26,5
+osprey,2024-01-16,mrshub.netlify.app,5,2
+osprey,2024-01-16,mrshub.org,7,5
+osprey,2024-01-16,schorschinho.github.io,42,8
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
