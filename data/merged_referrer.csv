@@ -3096,6 +3096,10 @@ LCModel,2024-01-17,Bing,27,3
 LCModel,2024-01-17,Google,72,21
 LCModel,2024-01-17,cn.bing.com,20,4
 LCModel,2024-01-17,lncd.pitt.edu,5,1
+LCModel,2024-01-18,Bing,27,3
+LCModel,2024-01-18,Google,71,20
+LCModel,2024-01-18,cn.bing.com,20,4
+LCModel,2024-01-18,lncd.pitt.edu,5,1
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -3933,6 +3937,7 @@ MRSDeIdentificationTools,2024-01-14,forum.mrshub.org,9,2
 MRSDeIdentificationTools,2024-01-15,forum.mrshub.org,9,2
 MRSDeIdentificationTools,2024-01-16,forum.mrshub.org,6,1
 MRSDeIdentificationTools,2024-01-17,forum.mrshub.org,6,1
+MRSDeIdentificationTools,2024-01-18,forum.mrshub.org,6,1
 github-stats-osprey,2022-02-11,github.com,3,1
 github-stats-osprey,2022-02-12,github.com,3,1
 github-stats-osprey,2022-02-13,github.com,3,1
@@ -4244,6 +4249,7 @@ multi-language-mrs-processing,2024-01-14,Bing,1,1
 multi-language-mrs-processing,2024-01-15,Bing,1,1
 multi-language-mrs-processing,2024-01-16,Bing,1,1
 multi-language-mrs-processing,2024-01-17,Bing,1,1
+multi-language-mrs-processing,2024-01-18,Bing,1,1
 nifti-mrs-matlab,2022-02-10,github.com,1,1
 nifti-mrs-matlab,2022-02-11,github.com,1,1
 nifti-mrs-matlab,2022-02-12,github.com,1,1
@@ -12466,6 +12472,16 @@ osprey,2024-01-17,mrshub.netlify.app,2,2
 osprey,2024-01-17,mrshub.org,8,5
 osprey,2024-01-17,schorschinho.github.io,41,7
 osprey,2024-01-17,ukc-excel.officeapps.live.com,2,1
+osprey,2024-01-18,Bing,5,4
+osprey,2024-01-18,Google,59,35
+osprey,2024-01-18,cn.bing.com,3,2
+osprey,2024-01-18,forum.mrshub.org,6,2
+osprey,2024-01-18,github.com,27,5
+osprey,2024-01-18,kennedykrieger.org,1,1
+osprey,2024-01-18,mrshub.netlify.app,2,2
+osprey,2024-01-18,mrshub.org,8,5
+osprey,2024-01-18,schorschinho.github.io,120,8
+osprey,2024-01-18,ukc-excel.officeapps.live.com,2,1
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
