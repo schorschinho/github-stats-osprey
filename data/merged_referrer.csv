@@ -3116,6 +3116,10 @@ LCModel,2024-01-22,Bing,21,2
 LCModel,2024-01-22,Google,90,25
 LCModel,2024-01-22,cn.bing.com,20,4
 LCModel,2024-01-22,lncd.pitt.edu,8,4
+LCModel,2024-01-23,Bing,3,2
+LCModel,2024-01-23,Google,83,21
+LCModel,2024-01-23,cn.bing.com,20,4
+LCModel,2024-01-23,lncd.pitt.edu,8,4
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -3959,6 +3963,8 @@ MRSDeIdentificationTools,2024-01-20,forum.mrshub.org,6,1
 MRSDeIdentificationTools,2024-01-21,forum.mrshub.org,6,1
 MRSDeIdentificationTools,2024-01-22,forum.mrshub.org,6,1
 MRSDeIdentificationTools,2024-01-22,github.com,4,1
+MRSDeIdentificationTools,2024-01-23,forum.mrshub.org,6,1
+MRSDeIdentificationTools,2024-01-23,github.com,4,1
 github-stats-osprey,2022-02-11,github.com,3,1
 github-stats-osprey,2022-02-12,github.com,3,1
 github-stats-osprey,2022-02-13,github.com,3,1
@@ -4276,6 +4282,8 @@ multi-language-mrs-processing,2024-01-20,github.com,1,1
 multi-language-mrs-processing,2024-01-21,github.com,1,1
 multi-language-mrs-processing,2024-01-22,Bing,1,1
 multi-language-mrs-processing,2024-01-22,github.com,1,1
+multi-language-mrs-processing,2024-01-23,Bing,1,1
+multi-language-mrs-processing,2024-01-23,github.com,1,1
 nifti-mrs-matlab,2022-02-10,github.com,1,1
 nifti-mrs-matlab,2022-02-11,github.com,1,1
 nifti-mrs-matlab,2022-02-12,github.com,1,1
@@ -12548,6 +12556,16 @@ osprey,2024-01-22,mrshub.netlify.app,3,3
 osprey,2024-01-22,mrshub.org,8,5
 osprey,2024-01-22,nitrc.org,3,1
 osprey,2024-01-22,schorschinho.github.io,164,18
+osprey,2024-01-23,Bing,5,5
+osprey,2024-01-23,Google,155,39
+osprey,2024-01-23,cn.bing.com,5,3
+osprey,2024-01-23,forum.mrshub.org,19,6
+osprey,2024-01-23,github.com,27,5
+osprey,2024-01-23,kennedykrieger.org,2,2
+osprey,2024-01-23,mrshub.netlify.app,3,3
+osprey,2024-01-23,mrshub.org,5,4
+osprey,2024-01-23,nitrc.org,3,1
+osprey,2024-01-23,schorschinho.github.io,164,18
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
