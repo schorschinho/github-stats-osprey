@@ -3143,6 +3143,10 @@ LCModel,2024-01-28,Google,148,29
 LCModel,2024-01-28,cn.bing.com,16,2
 LCModel,2024-01-28,github.com,1,1
 LCModel,2024-01-28,lncd.pitt.edu,8,4
+LCModel,2024-01-29,Bing,17,1
+LCModel,2024-01-29,Google,128,26
+LCModel,2024-01-29,github.com,1,1
+LCModel,2024-01-29,lncd.pitt.edu,3,3
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -3993,6 +3997,7 @@ MRSDeIdentificationTools,2024-01-25,github.com,4,1
 MRSDeIdentificationTools,2024-01-26,github.com,4,1
 MRSDeIdentificationTools,2024-01-27,github.com,4,1
 MRSDeIdentificationTools,2024-01-28,github.com,4,1
+MRSDeIdentificationTools,2024-01-29,github.com,4,1
 github-stats-osprey,2022-02-11,github.com,3,1
 github-stats-osprey,2022-02-12,github.com,3,1
 github-stats-osprey,2022-02-13,github.com,3,1
@@ -4322,6 +4327,8 @@ multi-language-mrs-processing,2024-01-27,Bing,1,1
 multi-language-mrs-processing,2024-01-27,github.com,2,1
 multi-language-mrs-processing,2024-01-28,Bing,1,1
 multi-language-mrs-processing,2024-01-28,github.com,2,1
+multi-language-mrs-processing,2024-01-29,Bing,1,1
+multi-language-mrs-processing,2024-01-29,github.com,2,1
 nifti-mrs-matlab,2022-02-10,github.com,1,1
 nifti-mrs-matlab,2022-02-11,github.com,1,1
 nifti-mrs-matlab,2022-02-12,github.com,1,1
@@ -12654,6 +12661,16 @@ osprey,2024-01-28,kennedykrieger.org,2,2
 osprey,2024-01-28,mrshub.netlify.app,10,5
 osprey,2024-01-28,nitrc.org,5,2
 osprey,2024-01-28,schorschinho.github.io,170,22
+osprey,2024-01-29,Bing,8,6
+osprey,2024-01-29,DuckDuckGo,46,2
+osprey,2024-01-29,Google,259,45
+osprey,2024-01-29,forum.mrshub.org,26,9
+osprey,2024-01-29,gabamrs.com,4,2
+osprey,2024-01-29,github.com,53,10
+osprey,2024-01-29,kennedykrieger.org,2,2
+osprey,2024-01-29,mrshub.netlify.app,9,4
+osprey,2024-01-29,nitrc.org,5,2
+osprey,2024-01-29,schorschinho.github.io,171,23
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
