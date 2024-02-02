@@ -3159,6 +3159,10 @@ LCModel,2024-02-01,Bing,24,3
 LCModel,2024-02-01,Google,136,25
 LCModel,2024-02-01,github.com,15,2
 LCModel,2024-02-01,lncd.pitt.edu,3,3
+LCModel,2024-02-02,Bing,24,3
+LCModel,2024-02-02,Google,136,25
+LCModel,2024-02-02,github.com,15,2
+LCModel,2024-02-02,lncd.pitt.edu,2,2
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -4013,6 +4017,7 @@ MRSDeIdentificationTools,2024-01-29,github.com,4,1
 MRSDeIdentificationTools,2024-01-30,github.com,4,1
 MRSDeIdentificationTools,2024-01-31,github.com,4,1
 MRSDeIdentificationTools,2024-02-01,github.com,4,1
+MRSDeIdentificationTools,2024-02-02,github.com,4,1
 github-stats-osprey,2022-02-11,github.com,3,1
 github-stats-osprey,2022-02-12,github.com,3,1
 github-stats-osprey,2022-02-13,github.com,3,1
@@ -4350,6 +4355,8 @@ multi-language-mrs-processing,2024-01-31,Bing,1,1
 multi-language-mrs-processing,2024-01-31,github.com,1,1
 multi-language-mrs-processing,2024-02-01,Bing,1,1
 multi-language-mrs-processing,2024-02-01,github.com,1,1
+multi-language-mrs-processing,2024-02-02,Bing,1,1
+multi-language-mrs-processing,2024-02-02,github.com,1,1
 nifti-mrs-matlab,2022-02-10,github.com,1,1
 nifti-mrs-matlab,2022-02-11,github.com,1,1
 nifti-mrs-matlab,2022-02-12,github.com,1,1
@@ -5673,6 +5680,7 @@ nifti-mrs-matlab,2024-01-11,search.brave.com,1,1
 nifti-mrs-matlab,2024-01-12,search.brave.com,1,1
 nifti-mrs-matlab,2024-01-13,search.brave.com,1,1
 nifti-mrs-matlab,2024-01-14,search.brave.com,1,1
+nifti-mrs-matlab,2024-02-02,Google,6,1
 osprey,2022-02-10,Bing,18,2
 osprey,2022-02-10,DuckDuckGo,1,1
 osprey,2022-02-10,Google,84,39
@@ -12722,6 +12730,16 @@ osprey,2024-02-01,mrshub.netlify.app,8,3
 osprey,2024-02-01,mrshub.org,7,3
 osprey,2024-02-01,nitrc.org,2,1
 osprey,2024-02-01,schorschinho.github.io,49,13
+osprey,2024-02-02,Bing,9,6
+osprey,2024-02-02,DuckDuckGo,47,2
+osprey,2024-02-02,Google,148,33
+osprey,2024-02-02,forum.mrshub.org,32,13
+osprey,2024-02-02,gabamrs.com,5,3
+osprey,2024-02-02,github.com,51,9
+osprey,2024-02-02,kennedykrieger.org,2,1
+osprey,2024-02-02,mrshub.netlify.app,8,3
+osprey,2024-02-02,mrshub.org,8,4
+osprey,2024-02-02,schorschinho.github.io,48,14
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
