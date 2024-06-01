@@ -3840,6 +3840,12 @@ LCModel,2024-05-31,Google,130,17
 LCModel,2024-05-31,cn.bing.com,1,1
 LCModel,2024-05-31,forum.mrshub.org,29,6
 LCModel,2024-05-31,lncd.pitt.edu,21,2
+LCModel,2024-06-01,Bing,8,2
+LCModel,2024-06-01,DuckDuckGo,1,1
+LCModel,2024-06-01,Google,130,17
+LCModel,2024-06-01,cn.bing.com,1,1
+LCModel,2024-06-01,forum.mrshub.org,30,7
+LCModel,2024-06-01,lncd.pitt.edu,22,3
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -5091,6 +5097,7 @@ github-stats-osprey,2024-05-23,github.com,1,1
 github-stats-osprey,2024-05-29,Google,1,1
 github-stats-osprey,2024-05-30,Google,1,1
 github-stats-osprey,2024-05-31,Google,1,1
+github-stats-osprey,2024-06-01,Google,1,1
 multi-language-mrs-processing,2023-06-18,mrathon.github.io,1,1
 multi-language-mrs-processing,2023-06-19,mrathon.github.io,1,1
 multi-language-mrs-processing,2023-06-20,mrathon.github.io,1,1
@@ -6862,6 +6869,8 @@ nifti-mrs-matlab,2024-05-28,Google,2,2
 nifti-mrs-matlab,2024-05-29,Google,2,2
 nifti-mrs-matlab,2024-05-30,Google,2,2
 nifti-mrs-matlab,2024-05-31,Google,2,2
+nifti-mrs-matlab,2024-06-01,Google,3,3
+nifti-mrs-matlab,2024-06-01,github.com,3,1
 osprey,2022-02-10,Bing,18,2
 osprey,2022-02-10,DuckDuckGo,1,1
 osprey,2022-02-10,Google,84,39
@@ -15101,6 +15110,16 @@ osprey,2024-05-31,mrshub.netlify.app,3,3
 osprey,2024-05-31,mrshub.org,28,2
 osprey,2024-05-31,schorschinho.github.io,108,15
 osprey,2024-05-31,yandex.ru,2,1
+osprey,2024-06-01,Bing,3,2
+osprey,2024-06-01,DuckDuckGo,4,3
+osprey,2024-06-01,Google,136,35
+osprey,2024-06-01,forum.mrshub.org,103,11
+osprey,2024-06-01,gabamrs.com,6,3
+osprey,2024-06-01,github.com,35,7
+osprey,2024-06-01,kennedykrieger.org,7,4
+osprey,2024-06-01,mrshub.netlify.app,3,3
+osprey,2024-06-01,mrshub.org,28,2
+osprey,2024-06-01,schorschinho.github.io,81,18
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
@@ -15520,3 +15539,6 @@ plotLCMBasis,2024-04-25,github.com,1,1
 plotLCMBasis,2024-05-29,Google,1,1
 plotLCMBasis,2024-05-30,Google,1,1
 plotLCMBasis,2024-05-31,Google,1,1
+plotLCMBasis,2024-06-01,Google,1,1
+plotLCMBasis,2024-06-01,github.com,2,1
+plotLCMBasis,2024-06-01,medium.com,11,1
