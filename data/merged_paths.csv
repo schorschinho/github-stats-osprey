@@ -7476,6 +7476,16 @@ LCModel,2024-06-04,tree/main/binaries/linux,LCModel/binaries/linux at main · sc
 LCModel,2024-06-04,tree/main/binaries/macos,LCModel/binaries/macos at main · schorschinho/LCModel · GitHub,8,2
 LCModel,2024-06-04,tree/main/binaries/win/win10,LCModel/binaries/win/win10 at main · schorschinho/LCModel · GitHub,29,7
 LCModel,2024-06-04,tree/main/source,LCModel/source at main · schorschinho/LCModel · GitHub,13,2
+LCModel,2024-06-05,,schorschinho/LCModel: A collection of compiled LCModel binaries for various o...,53,28
+LCModel,2024-06-05,blame/main/binaries/win/win10/LCModel.exe.zip,Blaming LCModel/binaries/win/win10/LCModel.exe.zip at main · schorschinho/LCM...,6,3
+LCModel,2024-06-05,blob/main/LICENSE.md,LCModel/LICENSE.md at main · schorschinho/LCModel · GitHub,15,3
+LCModel,2024-06-05,blob/main/Makefile,LCModel/Makefile at main · schorschinho/LCModel · GitHub,12,4
+LCModel,2024-06-05,blob/main/README.md,LCModel/README.md at main · schorschinho/LCModel · GitHub,27,8
+LCModel,2024-06-05,blob/main/binaries/win/win10/LCModel.exe.zip,LCModel/binaries/win/win10/LCModel.exe.zip at main · schorschinho/LCModel · G...,51,12
+LCModel,2024-06-05,tree/main/binaries,LCModel/binaries at main · schorschinho/LCModel · GitHub,26,9
+LCModel,2024-06-05,tree/main/binaries/linux,LCModel/binaries/linux at main · schorschinho/LCModel · GitHub,5,1
+LCModel,2024-06-05,tree/main/binaries/macos,LCModel/binaries/macos at main · schorschinho/LCModel · GitHub,8,2
+LCModel,2024-06-05,tree/main/binaries/win/win10,LCModel/binaries/win/win10 at main · schorschinho/LCModel · GitHub,29,7
 MRSDeIdentificationTools,2022-02-24,,schorschinho/MRSDeIdentificationTools: Tools to remove protected health infor...,3,2
 MRSDeIdentificationTools,2022-02-24,blob/master/PhilipsDeIdentify.m,MRSDeIdentificationTools/PhilipsDeIdentify.m at master · schorschinho/MRSDeId...,1,1
 MRSDeIdentificationTools,2022-02-24,blob/master/README.md,MRSDeIdentificationTools/README.md at master · schorschinho/MRSDeIdentificati...,1,1
@@ -9457,6 +9467,7 @@ github-stats-osprey,2024-06-01,,GitHub - schorschinho/github-stats-osprey,1,1
 github-stats-osprey,2024-06-02,,GitHub - schorschinho/github-stats-osprey,1,1
 github-stats-osprey,2024-06-03,,GitHub - schorschinho/github-stats-osprey,1,1
 github-stats-osprey,2024-06-04,,GitHub - schorschinho/github-stats-osprey,1,1
+github-stats-osprey,2024-06-05,,GitHub - schorschinho/github-stats-osprey,1,1
 lcmodel,2022-03-12,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,1,1
 lcmodel,2022-03-13,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,1,1
 lcmodel,2022-03-14,,GitHub - schorschinho/LCModel: A collection of compiled LCModel binaries for ...,1,1
@@ -11955,6 +11966,10 @@ nifti-mrs-matlab,2024-06-04,,GitHub - schorschinho/nifti-mrs-matlab: A minimal e
 nifti-mrs-matlab,2024-06-04,blob/590aadf5482c59f69b8c5247045d7786a222b0a1/matlab.sty,nifti-mrs-matlab/matlab.sty at 590aadf5482c59f69b8c5247045d7786a222b0a1 · sch...,2,1
 nifti-mrs-matlab,2024-06-04,blob/main/matlab.sty,nifti-mrs-matlab/matlab.sty at main · schorschinho/nifti-mrs-matlab · GitHub,2,1
 nifti-mrs-matlab,2024-06-04,tree/590aadf5482c59f69b8c5247045d7786a222b0a1,GitHub - schorschinho/nifti-mrs-matlab at 590aadf5482c59f69b8c5247045d7786a22...,1,1
+nifti-mrs-matlab,2024-06-05,,GitHub - schorschinho/nifti-mrs-matlab: A minimal example demonstrating the i...,3,2
+nifti-mrs-matlab,2024-06-05,blob/590aadf5482c59f69b8c5247045d7786a222b0a1/matlab.sty,nifti-mrs-matlab/matlab.sty at 590aadf5482c59f69b8c5247045d7786a222b0a1 · sch...,2,1
+nifti-mrs-matlab,2024-06-05,blob/main/matlab.sty,nifti-mrs-matlab/matlab.sty at main · schorschinho/nifti-mrs-matlab · GitHub,2,1
+nifti-mrs-matlab,2024-06-05,tree/590aadf5482c59f69b8c5247045d7786a222b0a1,GitHub - schorschinho/nifti-mrs-matlab at 590aadf5482c59f69b8c5247045d7786a22...,1,1
 osprey,2022-02-10,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,154,74
 osprey,2022-02-10,blob/90cc9caa7493784b2e5de5b7b782a987ad1ced03/libraries/FID-A/fitTools/fitModels/Osprey/fit_OspreyPrelimStep2.m,osprey/fit_OspreyPrelimStep2.m at 90cc9caa7493784b2e5de5b7b782a987ad1ced03 · ...,4,2
 osprey,2022-02-10,blob/develop/libraries/FID-A/inputOutput/io_writelcm.m,osprey/io_writelcm.m at develop · schorschinho/osprey · GitHub,5,3
@@ -20255,6 +20270,16 @@ osprey,2024-06-04,tree/develop/fit/basissets/3T/philips,osprey/fit/basissets/3T/
 osprey,2024-06-04,tree/develop/libraries/LCModel/win/win10,osprey/libraries/LCModel/win/win10 at develop · schorschinho/osprey · GitHub,16,2
 osprey,2024-06-04,tree/develop/libraries/LCModel/win/win10/LCModel_win_win10,osprey/libraries/LCModel/win/win10/LCModel_win_win10 at develop · schorschinh...,33,3
 osprey,2024-06-04,tree/develop/load,osprey/load at develop · schorschinho/osprey · GitHub,9,2
+osprey,2024-06-05,,schorschinho/osprey: All-in-one toolbox for processing of magnetic resonance ...,107,75
+osprey,2024-06-05,blob/develop/README.md,osprey/README.md at develop · schorschinho/osprey · GitHub,12,4
+osprey,2024-06-05,blob/develop/fit/code/osp_fitInitialise.m,osprey/fit/code/osp_fitInitialise.m at develop · schorschinho/osprey · GitHub,8,2
+osprey,2024-06-05,blob/develop/process/OspreyProcess.m,osprey/process/OspreyProcess.m at develop · schorschinho/osprey · GitHub,14,2
+osprey,2024-06-05,releases,Releases · schorschinho/osprey,11,9
+osprey,2024-06-05,tree/develop/exampledata,osprey/exampledata at develop · schorschinho/osprey · GitHub,8,3
+osprey,2024-06-05,tree/develop/fit/basissets/3T/philips,osprey/fit/basissets/3T/philips at develop · schorschinho/osprey · GitHub,16,1
+osprey,2024-06-05,tree/develop/libraries,osprey/libraries at develop · schorschinho/osprey · GitHub,8,3
+osprey,2024-06-05,tree/develop/libraries/LCModel/win/win10,osprey/libraries/LCModel/win/win10 at develop · schorschinho/osprey · GitHub,16,2
+osprey,2024-06-05,tree/develop/libraries/LCModel/win/win10/LCModel_win_win10,osprey/libraries/LCModel/win/win10/LCModel_win_win10 at develop · schorschinh...,20,2
 osprey-dw-workshop,2022-02-10,tree/main/osprey-develop,osprey-dw-workshop/osprey-develop at main · schorschinho/osprey-dw-workshop ·...,1,1
 osprey-dw-workshop,2022-02-11,blob/a03f47d78791a9b95e98497898eb3aad409f16cb/osprey-dwmrs/docs_source/05-helpers.Rmd,osprey-dw-workshop/05-helpers.Rmd at a03f47d78791a9b95e98497898eb3aad409f16cb...,1,1
 osprey-dw-workshop,2022-02-11,blob/main/osprey-develop/exampledata/twix/jobTwix.m,osprey-dw-workshop/jobTwix.m at main · schorschinho/osprey-dw-workshop · GitHub,1,1
@@ -21409,3 +21434,9 @@ plotLCMBasis,2024-06-04,blob/main/plotLCMBasis.m,plotLCMBasis/plotLCMBasis.m at 
 plotLCMBasis,2024-06-04,issues,Issues · schorschinho/plotLCMBasis,2,1
 plotLCMBasis,2024-06-04,pulls,Pull requests · schorschinho/plotLCMBasis,1,1
 plotLCMBasis,2024-06-04,tree/main/graphics,plotLCMBasis/graphics at main · schorschinho/plotLCMBasis,3,1
+plotLCMBasis,2024-06-05,,schorschinho/plotLCMBasis: MATLAB function to plot LCModel basis sets (.basis),6,2
+plotLCMBasis,2024-06-05,blob/main/graphics/example1.png,plotLCMBasis/graphics/example1.png at main · schorschinho/plotLCMBasis,2,1
+plotLCMBasis,2024-06-05,blob/main/plotLCMBasis.m,plotLCMBasis/plotLCMBasis.m at main · schorschinho/plotLCMBasis · GitHub,4,2
+plotLCMBasis,2024-06-05,issues,Issues · schorschinho/plotLCMBasis,2,1
+plotLCMBasis,2024-06-05,pulls,Pull requests · schorschinho/plotLCMBasis,1,1
+plotLCMBasis,2024-06-05,tree/main/graphics,plotLCMBasis/graphics at main · schorschinho/plotLCMBasis · GitHub,5,2
