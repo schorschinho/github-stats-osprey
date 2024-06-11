@@ -3897,6 +3897,13 @@ LCModel,2024-06-10,copilot.microsoft.com,3,1
 LCModel,2024-06-10,forum.mrshub.org,34,7
 LCModel,2024-06-10,github.com,60,4
 LCModel,2024-06-10,lncd.pitt.edu,1,1
+LCModel,2024-06-11,Bing,27,9
+LCModel,2024-06-11,Google,145,18
+LCModel,2024-06-11,copilot.microsoft.com,3,1
+LCModel,2024-06-11,edgeservices.bing.com,3,1
+LCModel,2024-06-11,forum.mrshub.org,33,6
+LCModel,2024-06-11,github.com,60,4
+LCModel,2024-06-11,lncd.pitt.edu,1,1
 MRSDeIdentificationTools,2022-02-25,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-26,forum.mrshub.org,2,1
 MRSDeIdentificationTools,2022-02-27,forum.mrshub.org,2,1
@@ -5157,6 +5164,7 @@ github-stats-osprey,2024-06-06,Google,1,1
 github-stats-osprey,2024-06-07,Google,1,1
 github-stats-osprey,2024-06-08,Google,1,1
 github-stats-osprey,2024-06-09,Google,1,1
+github-stats-osprey,2024-06-11,github.com,1,1
 multi-language-mrs-processing,2023-06-18,mrathon.github.io,1,1
 multi-language-mrs-processing,2023-06-19,mrathon.github.io,1,1
 multi-language-mrs-processing,2023-06-20,mrathon.github.io,1,1
@@ -6948,6 +6956,8 @@ nifti-mrs-matlab,2024-06-09,Google,5,3
 nifti-mrs-matlab,2024-06-09,github.com,4,2
 nifti-mrs-matlab,2024-06-10,Google,7,4
 nifti-mrs-matlab,2024-06-10,github.com,4,2
+nifti-mrs-matlab,2024-06-11,Google,7,4
+nifti-mrs-matlab,2024-06-11,github.com,4,2
 osprey,2022-02-10,Bing,18,2
 osprey,2022-02-10,DuckDuckGo,1,1
 osprey,2022-02-10,Google,84,39
@@ -15287,6 +15297,16 @@ osprey,2024-06-10,l.facebook.com,3,1
 osprey,2024-06-10,markmikkelsen.github.io,2,2
 osprey,2024-06-10,mrshub.org,34,3
 osprey,2024-06-10,schorschinho.github.io,75,29
+osprey,2024-06-11,Bing,12,6
+osprey,2024-06-11,DuckDuckGo,1,1
+osprey,2024-06-11,Google,253,45
+osprey,2024-06-11,cn.bing.com,2,2
+osprey,2024-06-11,forum.mrshub.org,65,13
+osprey,2024-06-11,github.com,37,7
+osprey,2024-06-11,l.facebook.com,3,1
+osprey,2024-06-11,markmikkelsen.github.io,2,2
+osprey,2024-06-11,mrshub.org,34,3
+osprey,2024-06-11,schorschinho.github.io,58,27
 osprey-dw-workshop,2022-02-11,github.com,1,1
 osprey-dw-workshop,2022-02-12,github.com,1,1
 osprey-dw-workshop,2022-02-13,github.com,2,1
@@ -15735,3 +15755,5 @@ plotLCMBasis,2024-06-09,github.com,8,2
 plotLCMBasis,2024-06-09,medium.com,11,1
 plotLCMBasis,2024-06-10,github.com,8,2
 plotLCMBasis,2024-06-10,medium.com,11,1
+plotLCMBasis,2024-06-11,github.com,8,2
+plotLCMBasis,2024-06-11,medium.com,11,1
