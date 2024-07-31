@@ -3,6 +3,7 @@ name: Deploy GitHub pages with traffic stats
 on:
   schedule:
     - cron: "0 3 * * *"
+  workflow_dispatch:
 
 jobs:
   build-n-publish:
